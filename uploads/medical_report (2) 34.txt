@@ -1,0 +1,50 @@
+MEDICAL REPORT
+
+Patient Name: John Doe Age: 32 Gender: Male Date: 28 March 2026
+
+  ----------------------------------------
+  VITAL SIGNS
+  ----------------------------------------
+  Blood Pressure: 120/80 mmHg Heart Rate:
+  72 bpm Temperature: 98.6°F Respiratory
+  Rate: 16 breaths/min
+
+  ----------------------------------------
+
+SYMPTOMS
+
+-   Mild headache
+-   Fatigue
+-   Occasional dizziness
+
+  ----------------------------------------
+  DIAGNOSIS
+  ----------------------------------------
+  Patient shows signs of mild dehydration
+  and stress-related fatigue.
+
+  ----------------------------------------
+
+PRESCRIPTION
+
+-   Paracetamol 500 mg (if headache persists)
+-   ORS solution (2-3 times daily)
+-   Adequate rest (7-8 hours sleep)
+-   Increase water intake
+
+  ----------------------------------------
+  RECOMMENDATIONS
+  ----------------------------------------
+  - Maintain hydration - Balanced diet -
+  Regular exercise - Follow-up after 5
+  days if symptoms persist
+
+  ----------------------------------------
+
+DOCTOR DETAILS
+
+Dr. Smith General Physician License No: MED123456
+
+  ---------------
+  END OF REPORT
+  ---------------
